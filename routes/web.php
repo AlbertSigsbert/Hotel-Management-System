@@ -19,3 +19,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/' , [HomePageController::class, 'index'])->name('home-page');
 Route::get('/room', [RoomsPageController::class, 'index'] )->name('room.index');
 Route::get('/room/{room}', [RoomsPageController::class, 'show'] )->name('room.show');
+
+Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
+    return view('dashboard');
+})->name('dashboard');
