@@ -31,7 +31,7 @@ This is a hotel management System built using Laravel.
 
 - Semantic HTML5 markup
 - Tailwind CSS
-- Laravel Framework
+- Laravel Framework version 8
 
 
 ## Author
