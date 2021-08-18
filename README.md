@@ -19,7 +19,7 @@ This is a hotel management System built using Laravel.
 
 ### Note
 - The system is not yet complete 
--  Pull Request are appreciated.
+-  Pull Requests are appreciated.
 
 
 ## Author
