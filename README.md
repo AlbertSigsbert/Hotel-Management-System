@@ -22,10 +22,6 @@ This is a hotel management System built using Laravel.
    <img src="img/github-finder-mobile.png" height="500px">
   </p>
   
-### Links
-
-- [Live Site URL](https://am-github-finder.netlify.app/)
-- [Youtube](https://youtu.be/OMJ3GEldf5E)
 
 ### Built with
 
