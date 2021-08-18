@@ -8,19 +8,9 @@ This is a hotel management System built using Laravel.
 
 
 ### Preview
-![BookList Demo](img/github.gif)
+![BookList Demo](public/img/hotel.gif)
 
-### Screenshot
 
-            This is a desktop View.
-
-<img src="img/github-finder-desktop.png">
-
-             This is for mobile view.
-
-<p align="center">
-   <img src="img/github-finder-mobile.png" height="500px">
-  </p>
   
 
 ### Built with
